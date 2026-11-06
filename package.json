@@ -1,0 +1,19 @@
+{
+  "name": "fgip07-staff-planner",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "node preview.mjs",
+    "test": "node tests/browser.mjs"
+  },
+  "dependencies": {
+    "react": "19.2.6",
+    "react-dom": "19.2.6"
+  },
+  "devDependencies": {
+    "esbuild": "0.27.4",
+    "playwright": "1.65.0"
+  }
+}

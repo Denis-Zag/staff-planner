@@ -2,7 +2,7 @@
 
 Планировщик сотрудников по объектам и датам.
 
-[Открыть приложение](https://denis-zag.gitverse.site/staff-planner/) · [Исходное объявление](https://www.weblancer.net/freelance/prikladnoe-po-23/planirovshchik-sotrudnikov-po-obektam-1253280/)
+[Открыть приложение на Netlify](https://denis-zag-staff-planner.netlify.app/) · [Исходное объявление](https://www.weblancer.net/freelance/prikladnoe-po-23/planirovshchik-sotrudnikov-po-obektam-1253280/)
 
 ## Возможности
 

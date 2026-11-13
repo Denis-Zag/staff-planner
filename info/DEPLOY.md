@@ -8,13 +8,23 @@
 
 ## Размещение в аккаунте заказчика
 
-1. Скачайте [репозиторий проекта](https://github.com/Denis-Zag/staff-planner) или клонируйте его. Распакуйте архив, если скачивали его с GitHub.
-2. Войдите в свой аккаунт [Netlify](https://app.netlify.com/). Откройте [Netlify Drop](https://app.netlify.com/drop).
+1. Скачайте архив проекта с GitHub или клонируйте репозиторий. Распакуйте скачанный архив.
+
+   Репозиторий проекта: https://github.com/Denis-Zag/staff-planner
+2. Войдите в свой аккаунт Netlify. Откройте Netlify Drop.
+
+   Netlify: https://app.netlify.com/
+
+   Netlify Drop: https://app.netlify.com/drop
 3. Перетащите папку `public/` из репозитория в область загрузки. В корне этой папки должны быть `index.html`, `app.js` и `style.css`.
-4. Если Netlify открывает приложение только после входа, выберите **Make public** для основного сайта. Настройка также доступна в Project configuration → General → Visitor access → Project visibility. [Справка Netlify по публичному доступу](https://docs.netlify.com/manage/security/secure-access-to-sites/project-visibility/#make-public).
+4. Если Netlify открывает приложение только после входа, выберите **Make public** для основного сайта. Настройка также доступна в Project configuration → General → Visitor access → Project visibility.
+
+   Справка Netlify по публичному доступу: https://docs.netlify.com/manage/security/secure-access-to-sites/project-visibility/#make-public
 5. После публикации откройте выданный адрес `*.netlify.app` в окне без входа в аккаунт. Добавьте вымышленную запись, обновите страницу и проверьте её сохранение.
 
-Для загрузки готовой папки Node.js и отдельный сервер не нужны. [Документация Netlify Drop](https://docs.netlify.com/start/quickstarts/netlify-drop-quickstart/).
+Для загрузки готовой папки Node.js и отдельный сервер не нужны.
+
+Документация Netlify Drop: https://docs.netlify.com/start/quickstarts/netlify-drop-quickstart/
 
 ## Как обновлять
 

@@ -2,7 +2,9 @@
 
 Планировщик сотрудников по объектам и датам.
 
-[Открыть приложение на Netlify](https://denis-zag-staff-planner.netlify.app/) · [Исходное объявление](https://www.weblancer.net/freelance/prikladnoe-po-23/planirovshchik-sotrudnikov-po-obektam-1253280/)
+Рабочий сайт: https://denis-zag-staff-planner.netlify.app/
+
+Исходное объявление: https://www.weblancer.net/freelance/prikladnoe-po-23/planirovshchik-sotrudnikov-po-obektam-1253280/
 
 ## Возможности
 
@@ -42,12 +44,4 @@ npm test
 
 ## Публикация
 
-Готовую папку `public/` можно загрузить как отдельный проект через [Netlify Drop](https://app.netlify.com/drop). В корне папки находится `index.html`. [Инструкция по запуску и передаче](info/DEPLOY.md).
-
-## Границы кейса
-
-Объявление закрыто. Пример во вложении не использован: выбран собственный интерфейс. Один планировщик в одном браузере; совместная синхронизация не запрошена в открытом описании и не реализована.
-
-Бюджет объявления: 50 USD. Моя предварительная оценка аналогичной разработки: 15 000 ₽. Это не оплата за выполненный заказ. С заказчиком не связывался, приёмку и согласование не проводил.
-
-Материалы: info/TZ.md, SOURCE.md, PROMPTS.md.
+Рабочий сайт: https://denis-zag-staff-planner.netlify.app/
